@@ -1,4 +1,5 @@
-# 🚀 Proyecto ETL y Análisis de Datos - Programa de Lealtad Aerolínea
+# 🚀 Proyecto ETL y Análisis de Datos   
+# Programa de Lealtad Aerolínea
 
 Este repositorio contiene el proyecto desarrollado en el bootcamp de analítica de datos de Adalab. El objetivo es analizar el comportamiento de clientes en un programa de lealtad de una aerolínea, realizando un proceso completo ETL y análisis exploratorio.
 
@@ -67,5 +68,5 @@ Estoy abierta a recibir feedback, sugerencias y colaboraciones para seguir creci
 
 ---
 
-*Autor: Silvia Farled*  
+*Autora: Silvia Farled*  
 *Fecha: Junio 2025*
